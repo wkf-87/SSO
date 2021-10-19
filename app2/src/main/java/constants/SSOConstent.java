@@ -17,7 +17,7 @@ public class SSOConstent {
      */
     public static final String SSO_LOGIN_URL = "http://test-sso-server.com:8080/cas/LoginServlet";
 
-    /**
+    /** 
      * 单点登录系统登录地址
      */
     public static final String SSO_LOGOUT_URL = "http://test-sso-server.com:8080/cas/LogoutServlet";
