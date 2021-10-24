@@ -19,9 +19,9 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>sso Maven Webapp</name>
+    <name>ssoproject Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
-    <url>https://www.example.com</url>
+    <url>http://www.example.com</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -75,7 +75,7 @@
     </dependencies>
 
     <build>
-        <finalName>sso</finalName>
+        <finalName>ssoproject</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>

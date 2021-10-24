@@ -5,9 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>cn.edu.cqu</groupId>
-    <artifactId>SSO</artifactId>
+    <artifactId>ssoproject</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
+  <groupId>cn.edu.cqu</groupId>
   <artifactId>app1</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
